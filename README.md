@@ -1,5 +1,5 @@
 # graphreader_implementation
-Repo with practical implementation of graphreader paper
+Repo with practical implementation of graphreader paper.
 Snip of the ingested graph from neo4j :
 
 ![visualisation](https://github.com/user-attachments/assets/350ac20d-495e-4277-bdc0-24518976b05e)
@@ -7,6 +7,6 @@ Snip of the ingested graph from neo4j :
 ![image](https://github.com/user-attachments/assets/28745c01-9637-42c0-8ea9-194059811e7b)
 
 
-Image of the retrival flow :
+Image of the retrieval flow :
 
 ![output](https://github.com/user-attachments/assets/7be4aeb0-a992-4af4-bb5d-0523acc3a563)

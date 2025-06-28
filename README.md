@@ -1,5 +1,8 @@
 # graphreader_implementation
 Repo with practical implementation of graphreader paper.
+
+Explore SLides -> [GraphReader Agentic RAG Rethinking Long Context for LLMs](https://docs.google.com/presentation/d/1-RLpp8D8XqzZ5reupiWtySAFrsEw9xTq8OVNGgdVE-I/edit?usp=sharing)
+
 Snip of the ingested graph from neo4j :
 
 ![visualisation](https://github.com/user-attachments/assets/350ac20d-495e-4277-bdc0-24518976b05e)
